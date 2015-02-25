@@ -1,0 +1,29 @@
+{
+  "name": "dmp-less",
+  "version": "0.1.0",
+  "description": "Documark plugin for parsing less files to css files.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MalcolmK/dmp-less"
+  },
+  "author": "Malcolm Kindermans <malcolm.k.x@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MalcolmK/dmp-less/issues"
+  },
+  "keywords": [
+    "documark",
+    "documark-plugin",
+    "assets",
+    "less",
+    "dmp",
+    "css",
+    "malcolmk"
+  ],
+  "homepage": "https://github.com/MalcolmK/dmp-less",
+  "dependencies": {
+    "less": "^2.4.0",
+    "documark-cache": "^0.2.0"
+  }
+}
